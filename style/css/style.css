@@ -1,0 +1,31 @@
+.box {
+    width: 326px;
+    height: 316px;
+    margin-top: 187px;
+    margin-bottom: 151px;
+}
+.box img {
+    width: 70px;
+}
+.box p {
+    width: 218px;
+    font-weight: lighter;
+}
+.section-margin {
+    margin-top: 126px;
+    margin-bottom: 102px;
+}
+.img-size {
+    max-width: 670px;
+    width: 100%;
+}
+.img-p {
+    max-width: 710px;
+    width: 100%;
+    margin-top: 60px;
+}
+.divider {
+    background-color: #FFAA00;
+    width: 50px;
+    height: 0.5px;
+}
